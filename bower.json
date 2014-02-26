@@ -1,0 +1,12 @@
+{
+  "name": "foundation-libsass-template",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "jquery-legacy": "jquery#1.11",
+    "rem-unit-polyfill": "https://github.com/chuckcarpenter/REM-unit-polyfill.git",
+    "html5shiv": "https://github.com/aFarkas/html5shiv.git",
+    "nwmatcher": "https://github.com/dperini/nwmatcher.git",
+    "selectivizr": "https://github.com/keithclark/selectivizr.git",
+    "respond": "https://github.com/scottjehl/Respond.git"
+  }
+}
